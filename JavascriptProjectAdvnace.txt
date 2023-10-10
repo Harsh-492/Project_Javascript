@@ -1,0 +1,10 @@
+1) E-Commerce app ---payment gatway
+2) Maps App
+3) Photo Editing App(fabric.js, camin.js)
+4) Learning app(React Sketchpad,fabric.js)
+5) Booking App (calendly)
+6) Food Deleivery app
+7) Virtual tour App(three fiber react,aframe)
+8) Chat App(Socket Connection,socket Management,Presence Detection,file support,image support,voice support)
+9) Screen sharing app(zoom,gmeet,teams)(agora app builder,100ms)
+10) Social Media App
